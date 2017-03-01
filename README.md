@@ -1,4 +1,4 @@
-# dynamika-wyksztalcenia
+# Dynamika wykształcenia w Polsce 2000-2015
 Repozytorium zawiera kod pozwalający na wyprodukowanie
 grafiki dotyczącej dynamiki zmian wykształcenia w Polsce w latach 2000-2015. Dane pochodzą z badań Diagnozy Społecznej.
 
